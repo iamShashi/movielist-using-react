@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/movielist-using-react/static/css/main.274422bd.chunk.css",
+    "main.js": "/movielist-using-react/static/js/main.0a7fdb31.chunk.js",
+    "main.js.map": "/movielist-using-react/static/js/main.0a7fdb31.chunk.js.map",
+    "runtime~main.js": "/movielist-using-react/static/js/runtime~main.5ad5b318.js",
+    "runtime~main.js.map": "/movielist-using-react/static/js/runtime~main.5ad5b318.js.map",
+    "static/css/2.ffa14ab8.chunk.css": "/movielist-using-react/static/css/2.ffa14ab8.chunk.css",
+    "static/js/2.75d7e760.chunk.js": "/movielist-using-react/static/js/2.75d7e760.chunk.js",
+    "static/js/2.75d7e760.chunk.js.map": "/movielist-using-react/static/js/2.75d7e760.chunk.js.map",
+    "index.html": "/movielist-using-react/index.html",
+    "precache-manifest.3b9c8cfd8b36147f70b866c71607e8a4.js": "/movielist-using-react/precache-manifest.3b9c8cfd8b36147f70b866c71607e8a4.js",
+    "service-worker.js": "/movielist-using-react/service-worker.js",
+    "static/css/2.ffa14ab8.chunk.css.map": "/movielist-using-react/static/css/2.ffa14ab8.chunk.css.map",
+    "static/css/main.274422bd.chunk.css.map": "/movielist-using-react/static/css/main.274422bd.chunk.css.map",
+    "static/media/font-awesome.css": "/movielist-using-react/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/movielist-using-react/static/media/logo.ee7cd8ed.svg"
+  }
+}
